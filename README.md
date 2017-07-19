@@ -1,7 +1,7 @@
 # Naval-Ordnance-Bombardment
 Simple P2P Battleship inspired network game
 
-##Installation
+## Installation
 
 1. To play the game, ensure both you and your opponent have the latest version of Java installed, as well as the **N.O.B. v1.2** .jar file.
 
@@ -11,6 +11,6 @@ Simple P2P Battleship inspired network game
 
 4. After connecting, simply enjoy!
 
-##Screenshots
+## Screenshots
 
 ![alt text](http://i.imgur.com/WyjurMX.png)
